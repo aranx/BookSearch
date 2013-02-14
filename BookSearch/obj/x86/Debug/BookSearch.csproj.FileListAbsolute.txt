@@ -1,0 +1,13 @@
+D:\Project\BookSearch\BookSearch\bin\Debug\BookSearch.exe
+D:\Project\BookSearch\BookSearch\bin\Debug\BookSearch.pdb
+D:\Project\BookSearch\BookSearch\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\BookSearch\BookSearch\obj\x86\Debug\MainWindow.baml
+D:\Project\BookSearch\BookSearch\obj\x86\Debug\MainWindow.g.cs
+D:\Project\BookSearch\BookSearch\obj\x86\Debug\App.g.cs
+D:\Project\BookSearch\BookSearch\obj\x86\Debug\BookSearch_MarkupCompile.cache
+D:\Project\BookSearch\BookSearch\obj\x86\Debug\BookSearch.g.resources
+D:\Project\BookSearch\BookSearch\obj\x86\Debug\BookSearch.Properties.Resources.resources
+D:\Project\BookSearch\BookSearch\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\BookSearch\BookSearch\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\BookSearch\BookSearch\obj\x86\Debug\BookSearch.exe
+D:\Project\BookSearch\BookSearch\obj\x86\Debug\BookSearch.pdb
